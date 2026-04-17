@@ -144,7 +144,7 @@ export default function Page() {
           background: "#1e293b",
           padding: 28,
           borderRadius: 12,
-          width: 420,
+          width: 440,
           boxShadow: "0 10px 30px rgba(0,0,0,0.25)",
         }}
       >
@@ -152,7 +152,7 @@ export default function Page() {
           Team to Score First
         </h1>
         <p style={{ color: "#cbd5e1", marginTop: 0, marginBottom: 20 }}>
-          Uses W/D/W + 0-0, with optional BTTS refinement.
+          Uses W/D/W and 0-0, with optional BTTS refinement.
         </p>
 
         <div style={{ display: "grid", gap: 10 }}>
